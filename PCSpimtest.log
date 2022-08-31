@@ -1,0 +1,477 @@
+Messages
+=========================
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+spim: (parser) Register 1 is reserved for assembler on line 1 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+          nor $1, $0,$0;          #$1=FFFF_FFFF
+              ^
+spim: (parser) syntax error on line 2 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Loaded: D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+spim: (parser) Register 1 is reserved for assembler on line 1 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+          nor $1, $0,$0;          #$1=FFFF_FFFF
+              ^
+spim: (parser) syntax error on line 2 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Loaded: D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+spim: (parser) Register 1 is reserved for assembler on line 1 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+          nor $1, $0,$0;          #$1=FFFF_FFFF
+              ^
+spim: (parser) syntax error on line 2 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Loaded: D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Load terminated. Check code and simulator settings and try again.
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+spim: (parser) Register 1 is reserved for assembler on line 1 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+          nor $1, $0,$0;          #$1=FFFF_FFFF
+              ^
+spim: (parser) syntax error on line 2 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Loaded: D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Load terminated. Check code and simulator settings and try again.
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+spim: (parser) Register 1 is reserved for assembler on line 1 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+          nor $1, $0,$0;          #$1=FFFF_FFFF
+              ^
+spim: (parser) syntax error on line 2 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Loaded: D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Load terminated. Check code and simulator settings and try again.
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+spim: (parser) Register 1 is reserved for assembler on line 1 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+          nor $1, $0,$0;          #$1=FFFF_FFFF
+              ^
+spim: (parser) syntax error on line 2 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Loaded: D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Load terminated. Check code and simulator settings and try again.
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+spim: (parser) Register 1 is reserved for assembler on line 1 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+          nor $1, $0,$0;          #$1=FFFF_FFFF
+              ^
+spim: (parser) syntax error on line 2 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Loaded: D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Load terminated. Check code and simulator settings and try again.
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+spim: (parser) Register 1 is reserved for assembler on line 1 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+          nor $1, $0,$0;          #$1=FFFF_FFFF
+              ^
+spim: (parser) syntax error on line 2 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Loaded: D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+spim: (parser) Register 1 is reserved for assembler on line 1 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+          nor $1, $0,$0;          #$1=FFFF_FFFF
+              ^
+spim: (parser) syntax error on line 2 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Loaded: D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Load terminated. Check code and simulator settings and try again.
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+spim: (parser) Register 1 is reserved for assembler on line 1 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+          nor $1, $0,$0;          #$1=FFFF_FFFF
+              ^
+spim: (parser) syntax error on line 2 of file D:\zuchengyuanli\MISP\R_CPU_Test.asm
+Loaded: D:\zuchengyuanli\MISP\R_CPU_Test.asm
+D:\zuchengyuanli\MISP\R_CPU_Test.asm successfully loaded
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+D:\zuchengyuanli\MISP\R_CPU_Test.asm successfully loaded
+Exception occurred at PC=0x00400054
+  Arithmetic overflow
+Attempt to execute non-instruction at 0x80000180
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+Load terminated. Check code and simulator settings and try again.
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+Load terminated. Check code and simulator settings and try again.
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+Load terminated. Check code and simulator settings and try again.
+Memory and registers cleared and the simulator reinitialized.
+
+SPIM Version 9.1.9 of January 19, 2013
+Copyright 1990-2012, James R. Larus.
+All Rights Reserved.
+SPIM is distributed under a BSD license.
+See the file README for a full copyright notice.
+Loaded: D:\zuchengyuanli\MISP\test.asm
+D:\zuchengyuanli\MISP\test.asm successfully loaded
+Exception occurred at PC=0x00000000
+  Bad address in text read: 0x00000000
+Attempt to execute non-instruction at 0x80000180
+
+
+Registers
+=========================
+ PC      = 80000180   EPC     = 00000000   Cause   = 00000018   BadVAddr= 00000000
+ Status  = 3000ff12   HI      = 00000000   LO      = 00000000
+                                 General Registers
+R0  (r0) = 00000000  R8  (t0) = 0000004e  R16 (s0) = 00000000  R24 (t8) = 00000000
+R1  (at) = 00000001  R9  (t1) = 00000038  R17 (s1) = 00000000  R25 (t9) = 00000000
+R2  (v0) = 00000005  R10 (t2) = 0000004e  R18 (s2) = 00000000  R26 (k0) = 00000000
+R3  (v1) = 00000000  R11 (t3) = 00000000  R19 (s3) = 00000000  R27 (k1) = 00000000
+R4  (a0) = 0000004e  R12 (t4) = 00000000  R20 (s4) = 00000000  R28 (gp) = 10008000
+R5  (a1) = 7ffff290  R13 (t5) = 00000000  R21 (s5) = 00000000  R29 (sp) = 7ffff28c
+R6  (a2) = 7ffff298  R14 (t6) = 00000000  R22 (s6) = 00000000  R30 (s8) = 00000000
+R7  (a3) = 00000000  R15 (t7) = 00000000  R23 (s7) = 00000000  R31 (ra) = 00000000
+
+ FIR    = 00009800    FCSR    = 00000000    FCCR   = 00000000   FEXR    = 00000000
+ FENR   = 00000000
+                              Double Floating Point Registers
+FP0  = 0.000000      FP8  = 0.000000      FP16 = 0.000000      FP24 = 0.000000     
+FP2  = 0.000000      FP10 = 0.000000      FP18 = 0.000000      FP26 = 0.000000     
+FP4  = 0.000000      FP12 = 0.000000      FP20 = 0.000000      FP28 = 0.000000     
+FP6  = 0.000000      FP14 = 0.000000      FP22 = 0.000000      FP30 = 0.000000     
+                              Single Floating Point Registers
+FP0  = 0.000000      FP8  = 0.000000      FP16 = 0.000000      FP24 = 0.000000     
+FP1  = 0.000000      FP9  = 0.000000      FP17 = 0.000000      FP25 = 0.000000     
+FP2  = 0.000000      FP10 = 0.000000      FP18 = 0.000000      FP26 = 0.000000     
+FP3  = 0.000000      FP11 = 0.000000      FP19 = 0.000000      FP27 = 0.000000     
+FP4  = 0.000000      FP12 = 0.000000      FP20 = 0.000000      FP28 = 0.000000     
+FP5  = 0.000000      FP13 = 0.000000      FP21 = 0.000000      FP29 = 0.000000     
+FP6  = 0.000000      FP14 = 0.000000      FP22 = 0.000000      FP30 = 0.000000     
+FP7  = 0.000000      FP15 = 0.000000      FP23 = 0.000000      FP31 = 0.000000     
+
+
+Console
+=========================
+78
+56
+78
+
+Text Segment
+=========================
+[0x00400000]        0x34020005  ori $2, $0, 5                   ; 1: li  $v0,5
+[0x00400004]        0x0000000c  syscall                         ; 2: syscall
+[0x00400008]        0x00024021  addu $8, $0, $2                 ; 3: move  $t0,$v0
+[0x0040000c]        0x34020005  ori $2, $0, 5                   ; 4: li  $v0,5
+[0x00400010]        0x0000000c  syscall                         ; 5: syscall
+[0x00400014]        0x00024821  addu $9, $0, $2                 ; 6: move  $t1,$v0
+[0x00400018]        0x0128082a  slt $1, $9, $8                  ; 7: bgt  $t0,$t1,t0_bigger
+[0x0040001c]        0x14200002  bne $1, $0, 8 [t0_bigger-0x0040001c]
+[0x00400020]        0x00095021  addu $10, $0, $9                ; 8: move  $t2,$t1
+[0x00400024]        0x04010001  bgez $0 4 [endif-0x00400024]    ; 9: b endif
+[0x00400028]        0x00085021  addu $10, $0, $8                ; 10: move  $t2,$t0
+[0x0040002c]        0x000a2021  addu $4, $0, $10                ; 11: move  $a0,$t2
+[0x00400030]        0x34020001  ori $2, $0, 1                   ; 12: li  $v0,1
+[0x00400034]        0x0000000c  syscall                         ; 13: syscall
+[0x00400038]        0x03e00008  jr $31                          ; 14: jr  $ra;
+[0x0040003c]        0x34020005  ori $2, $0, 5                   ; 1: li  $v0,5
+[0x00400040]        0x0000000c  syscall                         ; 2: syscall
+[0x00400044]        0x00024021  addu $8, $0, $2                 ; 3: move  $t0,$v0
+[0x00400048]        0x34020005  ori $2, $0, 5                   ; 4: li  $v0,5
+[0x0040004c]        0x0000000c  syscall                         ; 5: syscall
+[0x00400050]        0x00024821  addu $9, $0, $2                 ; 6: move  $t1,$v0
+[0x00400054]        0x0128082a  slt $1, $9, $8                  ; 7: bgt  $t0,$t1,t0_bigger
+[0x00400058]        0x14200002  bne $1, $0, 8 [t0_bigger-0x00400058]
+[0x0040005c]        0x00095021  addu $10, $0, $9                ; 8: move  $t2,$t1
+[0x00400060]        0x04010001  bgez $0 4 [endif-0x00400060]    ; 9: b endif
+[0x00400064]        0x00085021  addu $10, $0, $8                ; 10: move  $t2,$t0
+[0x00400068]        0x000a2021  addu $4, $0, $10                ; 11: move  $a0,$t2
+[0x0040006c]        0x34020001  ori $2, $0, 1                   ; 12: li  $v0,1
+[0x00400070]        0x0000000c  syscall                         ; 13: syscall
+[0x00400074]        0x03e00008  jr $31                          ; 14: jr  $ra;
+
+        KERNEL
+
+
+Data Segment
+=========================
+        DATA
+[0x10000000]...[0x10040000]        0x00000000
+
+        STACK
+[0x7ffff28c]                        0x00000001
+[0x7ffff290]                        0x7ffff362  0x00000000  0x7fffffe1  0x7fffffbc
+[0x7ffff2a0]                        0x7fffff85  0x7fffff49  0x7fffff18  0x7ffffefb
+[0x7ffff2b0]                        0x7ffffed7  0x7ffffe94  0x7ffffe4b  0x7ffffe19
+[0x7ffff2c0]                        0x7ffffe0c  0x7ffffdf8  0x7ffffdab  0x7ffffd83
+[0x7ffff2d0]                        0x7ffffd65  0x7ffffd05  0x7ffffce7  0x7ffffccf
+[0x7ffff2e0]                        0x7ffffc83  0x7ffffc3b  0x7ffffbfb  0x7ffffbdc
+[0x7ffff2f0]                        0x7ffffbce  0x7ffff6d3  0x7ffff695  0x7ffff67a
+[0x7ffff300]                        0x7ffff65d  0x7ffff614  0x7ffff602  0x7ffff5ea
+[0x7ffff310]                        0x7ffff5cf  0x7ffff5ab  0x7ffff582  0x7ffff564
+[0x7ffff320]                        0x7ffff4f9  0x7ffff4e2  0x7ffff49d  0x7ffff489
+[0x7ffff330]                        0x7ffff47a  0x7ffff464  0x7ffff452  0x7ffff441
+[0x7ffff340]                        0x7ffff426  0x7ffff3fc  0x7ffff3ef  0x7ffff3d6
+[0x7ffff350]                        0x7ffff384  0x7ffff372  0x00000000  0x00000000
+[0x7ffff360]                        0x44220000  0x63705c3a  0x6d697073  0x6578652e
+[0x7ffff370]                        0x69770022  0x7269646e  0x5c3a433d  0x444e4957
+[0x7ffff380]                        0x0053574f  0x32315356  0x4d4f4330  0x4f4f544e
+[0x7ffff390]                        0x433d534c  0x72505c3a  0x6172676f  0x6946206d
+[0x7ffff3a0]                        0x2073656c  0x36387828  0x694d5c29  0x736f7263
+[0x7ffff3b0]                        0x2074666f  0x75736956  0x53206c61  0x69647574
+[0x7ffff3c0]                        0x3231206f  0x435c302e  0x6f6d6d6f  0x545c376e
+[0x7ffff3d0]                        0x736c6f6f  0x5355005c  0x52505245  0x4c49464f
+[0x7ffff3e0]                        0x3a433d45  0x6573555c  0x715c7372  0x55006373
+[0x7ffff3f0]                        0x4e524553  0x3d454d41  0x00637371  0x52455355
+[0x7ffff400]                        0x414d4f44  0x525f4e49  0x494d414f  0x5250474e
+[0x7ffff410]                        0x4c49464f  0x414c3d45  0x504f5450  0x534c522d
+[0x7ffff420]                        0x4d45444d  0x53550030  0x4f445245  0x4e49414d
+[0x7ffff430]                        0x50414c3d  0x2d504f54  0x4d534c52  0x304d4544
+[0x7ffff440]                        0x504d5400  0x5c3a443d  0x706d6554  0x6d65545c
+[0x7ffff450]                        0x45540070  0x443d504d  0x65545c3a  0x545c706d
+[0x7ffff460]                        0x00706d65  0x74737953  0x6f526d65  0x433d746f
+[0x7ffff470]                        0x49575c3a  0x574f444e  0x79530053  0x6d657473
+[0x7ffff480]                        0x76697244  0x3a433d65  0x53455300  0x4e4f4953
+[0x7ffff490]                        0x454d414e  0x6e6f433d  0x656c6f73  0x43795000
+[0x7ffff4a0]                        0x6d726168  0x6d6f4320  0x696e756d  0x45207974
+[0x7ffff4b0]                        0x69746964  0x443d6e6f  0x79505c3a  0x72616843
+[0x7ffff4c0]                        0x6f43206d  0x6e756d6d  0x20797469  0x74696445
+[0x7ffff4d0]                        0x206e6f69  0x31323032  0x332e312e  0x6e69625c
+[0x7ffff4e0]                        0x5550003b  0x43494c42  0x5c3a433d  0x72657355
+[0x7ffff4f0]                        0x75505c73  0x63696c62  0x4d535000  0x6c75646f
+[0x7ffff500]                        0x74615065  0x3a433d68  0x6f72505c  0x6d617267
+[0x7ffff510]                        0x6c694620  0x575c7365  0x6f646e69  0x6f507377
+[0x7ffff520]                        0x53726577  0x6c6c6568  0x646f4d5c  0x73656c75
+[0x7ffff530]                        0x5c3a433b  0x444e4957  0x5c53574f  0x74737973
+[0x7ffff540]                        0x32336d65  0x6e69575c  0x73776f64  0x65776f50
+[0x7ffff550]                        0x65685372  0x765c6c6c  0x5c302e31  0x75646f4d
+[0x7ffff560]                        0x0073656c  0x676f7250  0x576d6172  0x32333436
+[0x7ffff570]                        0x5c3a433d  0x676f7250  0x206d6172  0x656c6946
+[0x7ffff580]                        0x72500073  0x6172676f  0x6c69466d  0x78287365
+[0x7ffff590]                        0x3d293638  0x505c3a43  0x72676f72  0x46206d61
+[0x7ffff5a0]                        0x73656c69  0x38782820  0x50002936  0x72676f72
+[0x7ffff5b0]                        0x69466d61  0x3d73656c  0x505c3a43  0x72676f72
+[0x7ffff5c0]                        0x46206d61  0x73656c69  0x38782820  0x50002936
+[0x7ffff5d0]                        0x72676f72  0x61446d61  0x433d6174  0x72505c3a
+[0x7ffff5e0]                        0x6172676f  0x7461446d  0x52500061  0x5345434f
+[0x7ffff5f0]                        0x5f524f53  0x49564552  0x4e4f4953  0x3035613d
+[0x7ffff600]                        0x52500032  0x5345434f  0x5f524f53  0x4556454c
+[0x7ffff610]                        0x00363d4c  0x434f5250  0x4f535345  0x44495f52
+[0x7ffff620]                        0x49544e45  0x52454946  0x746e493d  0x34366c65
+[0x7ffff630]                        0x6d614620  0x20796c69  0x6f4d2036  0x206c6564
+[0x7ffff640]                        0x20353631  0x70657453  0x676e6970  0x202c3220
+[0x7ffff650]                        0x756e6547  0x49656e69  0x6c65746e  0x4f525000
+[0x7ffff660]                        0x53534543  0x415f524f  0x49484352  0x36574554
+[0x7ffff670]                        0x3d323334  0x36444d41  0x52500034  0x5345434f
+[0x7ffff680]                        0x5f524f53  0x48435241  0x43455449  0x45525554
+[0x7ffff690]                        0x3638783d  0x54415000  0x54584548  0x4f432e3d
+[0x7ffff6a0]                        0x452e3b4d  0x2e3b4558  0x3b544142  0x444d432e
+[0x7ffff6b0]                        0x42562e3b  0x562e3b53  0x2e3b4542  0x2e3b534a
+[0x7ffff6c0]                        0x3b45534a  0x4653572e  0x53572e3b  0x4d2e3b48
+[0x7ffff6d0]                        0x50004353  0x3d687461  0x505c3a43  0x72676f72
+[0x7ffff6e0]                        0x46206d61  0x73656c69  0x49564e5c  0x20414944
+[0x7ffff6f0]                        0x20555047  0x706d6f43  0x6e697475  0x6f542067
+[0x7ffff700]                        0x696b6c6f  0x55435c74  0x765c4144  0x342e3131
+[0x7ffff710]                        0x6e69625c  0x5c3a433b  0x676f7250  0x206d6172
+[0x7ffff720]                        0x656c6946  0x564e5c73  0x41494449  0x55504720
+[0x7ffff730]                        0x6d6f4320  0x69747570  0x5420676e  0x6b6c6f6f
+[0x7ffff740]                        0x435c7469  0x5c414455  0x2e313176  0x696c5c34
+[0x7ffff750]                        0x76766e62  0x3a433b70  0x6f72505c  0x6d617267
+[0x7ffff760]                        0x6c694620  0x28207365  0x29363878  0x6d6f435c
+[0x7ffff770]                        0x206e6f6d  0x656c6946  0x6e495c73  0x5c6c6574
+[0x7ffff780]                        0x72616853  0x4c206465  0x61726269  0x73656972
+[0x7ffff790]                        0x6465725c  0x5c747369  0x65746e69  0x5c34366c
+[0x7ffff7a0]                        0x706d6f63  0x72656c69  0x5c3a433b  0x646e6957
+[0x7ffff7b0]                        0x5c73776f  0x74737973  0x32336d65  0x5c3a433b
+[0x7ffff7c0]                        0x646e6957  0x3b73776f  0x575c3a43  0x6f646e69
+[0x7ffff7d0]                        0x535c7377  0x65747379  0x5c32336d  0x6d656257
+[0x7ffff7e0]                        0x5c3a433b  0x646e6957  0x5c73776f  0x74737953
+[0x7ffff7f0]                        0x32336d65  0x6e69575c  0x73776f64  0x65776f50
+[0x7ffff800]                        0x65685372  0x765c6c6c  0x5c302e31  0x5c3a433b
+[0x7ffff810]                        0x646e6957  0x5c73776f  0x74737953  0x32336d65
+[0x7ffff820]                        0x65704f5c  0x4853536e  0x3a433b5c  0x6f72505c
+[0x7ffff830]                        0x6d617267  0x6c694620  0x28207365  0x29363878
+[0x7ffff840]                        0x49564e5c  0x20414944  0x70726f43  0x7461726f
+[0x7ffff850]                        0x5c6e6f69  0x73796850  0x6f435c58  0x6e6f6d6d
+[0x7ffff860]                        0x5c3a433b  0x676f7250  0x206d6172  0x656c6946
+[0x7ffff870]                        0x564e5c73  0x41494449  0x726f4320  0x61726f70
+[0x7ffff880]                        0x6e6f6974  0x49564e5c  0x20414944  0x4c44764e
+[0x7ffff890]                        0x3b525349  0x505c3a43  0x72676f72  0x46206d61
+[0x7ffff8a0]                        0x73656c69  0x63694d5c  0x6f736f72  0x53207466
+[0x7ffff8b0]                        0x53204c51  0x65767265  0x31315c72  0x6f545c30
+[0x7ffff8c0]                        0x5c736c6f  0x6e6e6942  0x3a433b5c  0x4e49575c
+[0x7ffff8d0]                        0x53574f44  0x7379735c  0x336d6574  0x3a433b32
+[0x7ffff8e0]                        0x4e49575c  0x53574f44  0x5c3a433b  0x444e4957
+[0x7ffff8f0]                        0x5c53574f  0x74737953  0x32336d65  0x6562575c
+[0x7ffff900]                        0x3a433b6d  0x4e49575c  0x53574f44  0x7379535c
+[0x7ffff910]                        0x336d6574  0x69575c32  0x776f646e  0x776f5073
+[0x7ffff920]                        0x68537265  0x5c6c6c65  0x302e3176  0x3a433b5c
+[0x7ffff930]                        0x4e49575c  0x53574f44  0x7379535c  0x336d6574
+[0x7ffff940]                        0x704f5c32  0x53536e65  0x433b5c48  0x72505c3a
+[0x7ffff950]                        0x6172676f  0x6946206d  0x5c73656c  0x4449564e
+[0x7ffff960]                        0x43204149  0x6f70726f  0x69746172  0x4e5c6e6f
+[0x7ffff970]                        0x68676973  0x6f432074  0x7475706d  0x30322065
+[0x7ffff980]                        0x322e3132  0x3b5c302e  0x615c3a44  0x6f63616e
+[0x7ffff990]                        0x3b61646e  0x6e5c3a44  0x6e617765  0x6e6f6361
+[0x7ffff9a0]                        0x535c6164  0x70697263  0x433b7374  0x72505c3a
+[0x7ffff9b0]                        0x6172676f  0x6946206d  0x5c73656c  0x6e746f64
+[0x7ffff9c0]                        0x3b5c7465  0x6e5c3a44  0x6e617765  0x6e6f6361
+[0x7ffff9d0]                        0x443b6164  0x656e5c3a  0x616e6177  0x646e6f63
+[0x7ffff9e0]                        0x694c5c61  0x72617262  0x696d5c79  0x2d77676e
+[0x7ffff9f0]                        0x5c343677  0x3b6e6962  0x6e5c3a44  0x6e617765
+[0x7ffffa00]                        0x6e6f6361  0x4c5c6164  0x61726269  0x755c7972
+[0x7ffffa10]                        0x625c7273  0x443b6e69  0x656e5c3a  0x616e6177
+[0x7ffffa20]                        0x646e6f63  0x694c5c61  0x72617262  0x69625c79
+[0x7ffffa30]                        0x3a443b6e  0x77656e5c  0x63616e61  0x61646e6f
+[0x7ffffa40]                        0x7263535c  0x73747069  0x5c3a443b  0x63616e61
+[0x7ffffa50]                        0x61646e6f  0x5c3a443b  0x63616e61  0x61646e6f
+[0x7ffffa60]                        0x62694c5c  0x79726172  0x6e696d5c  0x772d7767
+[0x7ffffa70]                        0x625c3436  0x443b6e69  0x6e615c3a  0x6e6f6361
+[0x7ffffa80]                        0x4c5c6164  0x61726269  0x755c7972  0x625c7273
+[0x7ffffa90]                        0x443b6e69  0x6e615c3a  0x6e6f6361  0x4c5c6164
+[0x7ffffaa0]                        0x61726269  0x625c7972  0x443b6e69  0x6e615c3a
+[0x7ffffab0]                        0x6e6f6361  0x535c6164  0x70697263  0x433b7374
+[0x7ffffac0]                        0x73555c3a  0x5c737265  0x5c637371  0x44707041
+[0x7ffffad0]                        0x5c617461  0x61636f4c  0x72505c6c  0x6172676f
+[0x7ffffae0]                        0x505c736d  0x6f687479  0x79505c6e  0x6e6f6874
+[0x7ffffaf0]                        0x535c3933  0x70697263  0x3b5c7374  0x555c3a43
+[0x7ffffb00]                        0x73726573  0x6373715c  0x7070415c  0x61746144
+[0x7ffffb10]                        0x636f4c5c  0x505c6c61  0x72676f72  0x5c736d61
+[0x7ffffb20]                        0x68747950  0x505c6e6f  0x6f687479  0x5c39336e
+[0x7ffffb30]                        0x5c3a433b  0x72657355  0x73715c73  0x70415c63
+[0x7ffffb40]                        0x74614470  0x6f4c5c61  0x5c6c6163  0x7263694d
+[0x7ffffb50]                        0x666f736f  0x69575c74  0x776f646e  0x70704173
+[0x7ffffb60]                        0x3a443b73  0x6e61425c  0x697a6964  0x443b5c70
+[0x7ffffb70]                        0x79505c3a  0x72616843  0x6f43206d  0x6e756d6d
+[0x7ffffb80]                        0x20797469  0x74696445  0x206e6f69  0x31323032
+[0x7ffffb90]                        0x332e312e  0x6e69625c  0x3a443b3b  0x63694d5c
+[0x7ffffba0]                        0x6f736f72  0x56207466  0x6f432053  0x625c6564
+[0x7ffffbb0]                        0x433b6e69  0x73555c3a  0x5c737265  0x5c637371
+[0x7ffffbc0]                        0x746f642e  0x5c74656e  0x6c6f6f74  0x534f0073
+[0x7ffffbd0]                        0x6e69573d  0x73776f64  0x00544e5f  0x44656e4f
+[0x7ffffbe0]                        0x65766972  0x5c3a433d  0x72657355  0x73715c73
+[0x7ffffbf0]                        0x6e4f5c63  0x69724465  0x4e006576  0x4f4f5456
+[0x7ffffc00]                        0x5845534c  0x41505f54  0x433d4854  0x72505c3a
+[0x7ffffc10]                        0x6172676f  0x6946206d  0x5c73656c  0x4449564e
+[0x7ffffc20]                        0x43204149  0x6f70726f  0x69746172  0x4e5c6e6f
+[0x7ffffc30]                        0x6f6f5476  0x7845736c  0x4e005c74  0x44554356
+[0x7ffffc40]                        0x4d415341  0x53454c50  0x4f4f525f  0x3a433d54
+[0x7ffffc50]                        0x6f72505c  0x6d617267  0x61746144  0x49564e5c
+[0x7ffffc60]                        0x20414944  0x70726f43  0x7461726f  0x5c6e6f69
+[0x7ffffc70]                        0x41445543  0x6d615320  0x73656c70  0x3131765c
+[0x7ffffc80]                        0x4e00342e  0x44554356  0x4d415341  0x53454c50
+[0x7ffffc90]                        0x345f3131  0x4f4f525f  0x3a433d54  0x6f72505c
+[0x7ffffca0]                        0x6d617267  0x61746144  0x49564e5c  0x20414944
+[0x7ffffcb0]                        0x70726f43  0x7461726f  0x5c6e6f69  0x41445543
+[0x7ffffcc0]                        0x6d615320  0x73656c70  0x3131765c  0x4e00342e
+[0x7ffffcd0]                        0x45424d55  0x464f5f52  0x4f52505f  0x53534543
+[0x7ffffce0]                        0x3d53524f  0x4e003231  0x49585f4f  0x584e494c
+[0x7ffffcf0]                        0x5441445f  0x494c5f41  0x534e4543  0x49483d45
+[0x7ffffd00]                        0x4e454444  0x43494d00  0x5f444c5f  0x5242494c
+[0x7ffffd10]                        0x5f595241  0x48544150  0x5c3a433d  0x676f7250
+[0x7ffffd20]                        0x206d6172  0x656c6946  0x78282073  0x5c293638
+[0x7ffffd30]                        0x6d6d6f43  0x46206e6f  0x73656c69  0x746e495c
+[0x7ffffd40]                        0x535c6c65  0x65726168  0x694c2064  0x72617262
+[0x7ffffd50]                        0x5c736569  0x706d6f63  0x72656c69  0x62696c5c
+[0x7ffffd60]                        0x63696d5c  0x474f4c00  0x45534e4f  0x52455652
+[0x7ffffd70]                        0x4c5c5c3d  0x4f545041  0x4c522d50  0x45444d53
+[0x7ffffd80]                        0x4c00304d  0x4c41434f  0x44505041  0x3d415441
+[0x7ffffd90]                        0x555c3a43  0x73726573  0x6373715c  0x7070415c
+[0x7ffffda0]                        0x61746144  0x636f4c5c  0x49006c61  0x4c45544e
+[0x7ffffdb0]                        0x5645445f  0x4445525f  0x3d545349  0x505c3a43
+[0x7ffffdc0]                        0x72676f72  0x46206d61  0x73656c69  0x38782820
+[0x7ffffdd0]                        0x435c2936  0x6f6d6d6f  0x6946206e  0x5c73656c
+[0x7ffffde0]                        0x65746e49  0x68535c6c  0x64657261  0x62694c20
+[0x7ffffdf0]                        0x69726172  0x005c7365  0x454d4f48  0x48544150
+[0x7ffffe00]                        0x73555c3d  0x5c737265  0x00637371  0x454d4f48
+[0x7ffffe10]                        0x56495244  0x3a433d45  0x69724400  0x44726576
+[0x7ffffe20]                        0x3d617461  0x575c3a43  0x6f646e69  0x535c7377
+[0x7ffffe30]                        0x65747379  0x5c32336d  0x76697244  0x5c737265
+[0x7ffffe40]                        0x76697244  0x61447265  0x43006174  0x5f414455
+[0x7ffffe50]                        0x48544150  0x3131565f  0x433d345f  0x72505c3a
+[0x7ffffe60]                        0x6172676f  0x6946206d  0x5c73656c  0x4449564e
+[0x7ffffe70]                        0x47204149  0x43205550  0x75706d6f  0x676e6974
+[0x7ffffe80]                        0x6f6f5420  0x74696b6c  0x4455435c  0x31765c41
+[0x7ffffe90]                        0x00342e31  0x41445543  0x5441505f  0x3a433d48
+[0x7ffffea0]                        0x6f72505c  0x6d617267  0x6c694620  0x4e5c7365
+[0x7ffffeb0]                        0x49444956  0x50472041  0x6f432055  0x7475706d
+[0x7ffffec0]                        0x20676e69  0x6c6f6f54  0x5c74696b  0x41445543
+[0x7ffffed0]                        0x3131765c  0x4300342e  0x70536d6f  0x433d6365
+[0x7ffffee0]                        0x49575c3a  0x574f444e  0x79735c53  0x6d657473
+[0x7ffffef0]                        0x635c3233  0x652e646d  0x43006578  0x55504d4f
+[0x7fffff00]                        0x4e524554  0x3d454d41  0x5450414c  0x522d504f
+[0x7fffff10]                        0x444d534c  0x00304d45  0x6d6d6f43  0x72506e6f
+[0x7fffff20]                        0x6172676f  0x3436576d  0x433d3233  0x72505c3a
+[0x7fffff30]                        0x6172676f  0x6946206d  0x5c73656c  0x6d6d6f43
+[0x7fffff40]                        0x46206e6f  0x73656c69  0x6d6f4300  0x506e6f6d
+[0x7fffff50]                        0x72676f72  0x69466d61  0x2873656c  0x29363878
+[0x7fffff60]                        0x5c3a433d  0x676f7250  0x206d6172  0x656c6946
+[0x7fffff70]                        0x78282073  0x5c293638  0x6d6d6f43  0x46206e6f
+[0x7fffff80]                        0x73656c69  0x6d6f4300  0x506e6f6d  0x72676f72
+[0x7fffff90]                        0x69466d61  0x3d73656c  0x505c3a43  0x72676f72
+[0x7fffffa0]                        0x46206d61  0x73656c69  0x38782820  0x435c2936
+[0x7fffffb0]                        0x6f6d6d6f  0x6946206e  0x0073656c  0x44505041
+[0x7fffffc0]                        0x3d415441  0x555c3a43  0x73726573  0x6373715c
+[0x7fffffd0]                        0x7070415c  0x61746144  0x616f525c  0x676e696d
+[0x7fffffe0]                        0x4c4c4100  0x52455355  0x4f525053  0x454c4946
+[0x7ffffff0]                        0x5c3a433d  0x676f7250  0x446d6172  0x00617461
+
+        KERNEL DATA
+[0x90000000]...[0x90010000]        0x00000000
+
+
